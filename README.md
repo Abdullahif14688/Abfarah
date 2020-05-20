@@ -4,5 +4,7 @@ My personal website - Abfarah.com. Built using gatsby.js.
 
 ### Dependencies
 > Gatsby.js
+>
 > Node
+> 
 > React
